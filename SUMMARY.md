@@ -1,8 +1,8 @@
 # Summary
 
 1. [1. 介绍](README.md) 
- * [写作很棒]()
-2. [序言](chapter00/preface.md)
+ * [1.1. 写作很棒]()
+2. [2. 序言](chapter00/preface.md)
 3. [迅雷](chapter01/README.md)
   1. [第一节](chapter01/note01.md)
   * [第二节](chapter01/note02.md)
