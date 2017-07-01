@@ -1,9 +1,9 @@
 # Summary
 
 1. [Introduction](README.md)
-* [序言](chapter00/preface.md)
-* [迅雷](chapter01/README.md)
-  * [第一节](chapter01/note01.md)
+2. [序言](chapter00/preface.md)
+3. [迅雷](chapter01/README.md)
+  1. [第一节](chapter01/note01.md)
   * [第二节](chapter01/note02.md)
 * [第二章](chapter02/README.md)
   * [第一节](chapter02/note01.md)
