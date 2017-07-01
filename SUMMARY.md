@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+1. [Introduction](README.md)
 * [序言](chapter00/preface.md)
 * [迅雷](chapter01/README.md)
   * [第一节](chapter01/note01.md)
